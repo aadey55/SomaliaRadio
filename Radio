@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:0, Shabelle Radio
+http://176.31.107.8:8069/stream
+#EXTINF:0, Kulmiye Radio
+http://37.59.47.192:8436/stream
+#EXTINF:0, Radio Risaala
+https://node-15.zeno.fm/wwec0hwr0y5tv.aac?rj-ttl=5&amp;rj-token=AAABbWlZuy6aprRPzXGPGam_l5VmvWZ6SDuEGOJUN7CZsd0KqExzvA
+#EXTINF:0, Radio Moqdisho
+http://radio.ileysinc.com:9998/stream
+#EXTINF:0, GoolFM
+https://s3.radio.co/s251d8798d/listen
+#EXTINF:0, Star Fm Kenya
+http://217.21.124.75:88/broadwave.mp3?src=1&amp;rate=1
+#EXTINF:0, Star FM Somali
+http://sostecstream.com:9994/;stream.mp3
+#EXTINF:0, KALY Radio
+http://ample-zeno-06.radiojar.com/qvck29s1zceuv?rj-ttl=5&amp;rj-token=AAABZQbaXEpwYob7Ij1z-Kzk8qr-ZL68X9XMqDtcLvexRjRX3Si3Ag
